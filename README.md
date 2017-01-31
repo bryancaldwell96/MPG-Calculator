@@ -1,0 +1,2 @@
+# MPG-Calculator
+Basic Visual Basic application that asks the user to enter in how many gallons their car can hold and how many miles their car can be driven on a full tank. Clicking the "Calculate" button will divde "Gallons Car Can Hold" by "Number of Miles it Can be Driven on a Full Tank" and return the result, showing you how many miles per gallon your car will get, based on the information provided.
